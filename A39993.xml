@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Forresta de Windsor, in Com. Surrey the meers, meets, limits, and bounds of the Forrest of Windsor, in the county of Surrey, as the same are found, set out, limited and bounded by inquisition : taken by vertue of His Majesties Commission in pursuance of one act made in the Parliament ... in the sixteenth year of the reign of our soveraign Lord King Charles, intituled An act for the certainty of forrests and of the meers, meets, limits, and bounds of forrests as the same now remaine upon the record in His Majesties high court of chancery.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39993</idno>
+            <idno type="STC">Wing F1588B</idno>
+            <idno type="STC">ESTC R37855</idno>
+            <idno type="EEBO-CITATION">17150047</idno>
+            <idno type="OCLC">ocm 17150047</idno>
+            <idno type="VID">105879</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39993)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105879)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1615:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Forresta de Windsor, in Com. Surrey the meers, meets, limits, and bounds of the Forrest of Windsor, in the county of Surrey, as the same are found, set out, limited and bounded by inquisition : taken by vertue of His Majesties Commission in pursuance of one act made in the Parliament ... in the sixteenth year of the reign of our soveraign Lord King Charles, intituled An act for the certainty of forrests and of the meers, meets, limits, and bounds of forrests as the same now remaine upon the record in His Majesties high court of chancery.</title>
+                  <author>England and Wales. Act for the certainty of forrests.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Walbancke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Forest reserves --  England.</term>
+               <term>Surrey (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105879:1"/>
+            <pb facs="tcp:105879:1" rendition="simple:additions"/>
+            <p>
+               <hi>FORRESTA de WJNDSOR,</hi> IN <hi>COM. S<g ref="char:V">Ʋ</g>RREY.</hi>
+            </p>
+            <p>The Meers, Meets, Limits, and Bounds of the Forreſt of WINDSOR, in the County of <hi>Surrey,</hi> as the ſame are found, ſet out, limited and bounded by Inquiſition.</p>
+            <p>Taken by vertue of His Majeſties Commiſsion in purſuance of one Act made in the Parliament, begun at <hi>Weſtminſter,</hi> in the ſixteenth year of the Reign of our Soveraign Lord King <hi>Charles.</hi>
+            </p>
+            <p>INTITULED, An Act for the certainty of Forreſts, and of the Meers, Meets, Limits, and Bounds of Forreſts, as the ſame now remaine upon the Record in His Majeſties high Court of Chancery.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Matthew Walbancke,</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="eng" type="Act_of_Parliament">
+            <pb facs="tcp:105879:2" rendition="simple:additions"/>
+            <pb facs="tcp:105879:2"/>
+            <head>ANNO XVII. Caroli Regis, An Act for the certainty of Forreſts, and of the Meers, Meets, Limits, and Bounds of the Forreſts.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by Act of Parliament made in the firſt yeere of the reign of the late King Edward the third it is ordained, that the old perambulation of the Forreſt in the time of King Edward the firſt, ſhould bee thenceforth houlden in like forme as it was then ridden and bounded, and in ſuch places where it was not bounded, the King would that it ſhould be bounded by good men and lawfull.</p>
+            <p>And whereas for many ages paſt certaine meets, meers, li<g ref="char:EOLhyphen"/>mits, and bounds of the forreſts, haue been commonly knowne and obſerved in the ſeverall Counties wherein the ſaid forreſts lye.</p>
+            <p>And whereas of late diuers preſentments haue been made and ſome iudgements given, whereby the meets, meers limits, and bounds of ſome of the ſaid forreſts haue been variouſly extended, or pretended to extend beyond ſome of the ſaid meets, meers, limits and bounds ſo commonly knowne, and formerly obſerved, to the great grievance and vexation of many perſons hauing lands adioyning to the ſaid méets, méers, limits, and bounds ſo commonly knowne, and formerly obſerued: And whereas of late time ſome endeavours or pretences haue been to ſet on foote forreſts in ſome parts of this Realme, &amp; the dominion of Wales
+<pb n="2" facs="tcp:105879:3"/>where in truth none have been nor ought to be, or at leaſt haue not been uſed of long time: for remedy thereof, may it pleaſe your moſt excellent Maieſty, that it be declared by authority of Parliament.</p>
+            <p>And be it declared and enacted by the Kings moſt excellent Ma<g ref="char:EOLhyphen"/>ieſty, and the Lords and Commons of this preſent Parliament aſ<g ref="char:EOLhyphen"/>ſembled, &amp; by the authority of the ſame, that from henceforth the meets, méers, limits, and bounds of all and euery the forreſts re<g ref="char:EOLhyphen"/>ſpectiuely, ſhall be to all intents and purpoſes, taken, adiudged, &amp; deemed to extend no further reſpectively, then the meets meers, limits, and bounds, which in ſeuerall Counties reſpectiuely, wherein the ſaid forreſts do lie, were commonly knowne, repu<g ref="char:EOLhyphen"/>ted, uſed, or taken to the meets, meers, limits, and bounds of the ſaid forreſts reſpectiuely, in the twentieth yeare of our late So<g ref="char:EOLhyphen"/>veraign Lord King IAMES, and not beyond in any wiſe, any preambulation or preambulations, preſentments, extents, ſur<g ref="char:EOLhyphen"/>veys, iudgements, records, decrees, or other matter or thing whatſoeuer to the contrary notwithſtanding: And that all and euery the preſentments ſince the ſaid twentieth yeare made, and all and euery other preſentment and preſentments, and all and euery iudgement and award upon, or by reaſon or pretext of any ſuch preſentment or preſentments, and all and euery preambula<g ref="char:EOLhyphen"/>tion, and preambulations, ſurueys, extents, and other act and acts, at any time heretofore had or made, by which the meets, meers, limits, or bounds of the ſaid forreſts, or any of them are, or are pretended to be further extended then as aforeſaid: And al<g ref="char:EOLhyphen"/>ſo all and every preſentment of perſon or perſons at any Iuſtice ſeat, Swainemote, or Court of Attachments, for ſo by reaſon, or by colour of any act or acts whatſoever done or committed in any place without or beyond the ſaid meets, meers, limits or bounds reſpectively ſo commonly knowne, reputed, uſed, or ta<g ref="char:EOLhyphen"/>ken as aforeſaid, and all or euery fine or fines, and amercement or amercements, ſhall from henceforth be adiudged, deemed, &amp; taken to be utterly void, &amp; in no force or effect, any law, ſtatute, record, or pretence whatſoeuer to the contrary notwithſtanding.</p>
+            <p>And be it further enacted by the authority aforeſaid, that no place or places within this Realme of England, or dominion of Wales, where no ſuch Iuſtice ſeat, Swainemote, or Court of Attachment haue been held, or where no Verderers haue been choſen, or regard made within the ſpace of ſixty yeares next be<g ref="char:EOLhyphen"/>fore the firſt yeare of his Maieſties raigne that now is, ſhall be at any time hereafter adiudged, deemed, or taken to be forreſt, or within the bounds or meets of the forreſts; But ſhe ſame ſhall
+<pb n="3" facs="tcp:105879:3"/>bee from henceforth for euer hereafter diſafforreſted, and freed and exempted from the foreſts lawes; any Iuſtice ſeat, Swain<g ref="char:EOLhyphen"/>mote or Court of Attachment held or kept within, or for any ſuch place or places, at any time or times ſince the beginning of His Maieſties ſaid raigne, or any preſentment enquiry act, or thing heretofore made or hereafter to be made or done to the contrary notwithſtanding.</p>
+            <p>Provided alſo, and bee it further enacted by the authority afore<g ref="char:EOLhyphen"/>ſaid, that for the better putting into certainety, all and euery the meets, meers, bounds, and limits of all and euery the forreſts, as aforeſaid, the lord Chancelour, or Lord keeper of the great Seale of England for the time being, ſhall by vertue of this act upon requeſt of any of the Peeres of the Kingdome, or of the Knights and Burgeſſes of the Parliament, or any of them, grant ſeverall Commiſſions under the great Seale of England, to Commiſſioners to be nominated reſpectively by the ſaid Peers, Knights, and Burgeſſes, or any of them, to enquire of, and finds out by Inqueſts of good and lawfull men upon oath, and by the oathes of witneſſes to be produced at the ſaid Inqueſts, and by all other meanes, all, and every the meers, meets, bounds, &amp; limits reſpectively of the forreſts reſpectively, in the ſaid twen<g ref="char:EOLhyphen"/>tieth year of the reigne of our late Soveraigne Lord King IAMES; And to returne the Inqueſts ſo taken into the Court of Chauncery; And that all and every the Sheriffes, and Bailiffes of, and in every County wherein any ſuch Inqueſts ſhall be ſo to be taken, and all and every the Verderers, For<g ref="char:EOLhyphen"/>reſters, Rangers, and other officers of the forreſts reſpectively where any ſuch officers be, ſhall be aſſiſtant, and attendant to the execution of the ſaid Commiſſions, according as by the vertue of the ſaid Commiſſions reſpectiuely they ſhall be commanded; And where no ſuch officers are, or where ſuch officers be, if they, or any of them ſhall refuſe, or neglect ſuch aſſiſtance, and atten<g ref="char:EOLhyphen"/>dance as aforeſaid, Then the ſaid Commiſſioners ſhall, and may proceed without them in the execution of the ſaid Commiſſi<g ref="char:EOLhyphen"/>ons.</p>
+            <p>And be it fuxther enacted by the Authority aforeſaid, that the forreſts whereof the meets, meers, limits, and bounds ſhall be ſo returned, and certified by vertue of any of ſhe ſaid Commiſſions as aforeſaid, from thenceforth ſhall not extend, nor be extended, nor be deemed, adiudged, or taken to extend any further in any then the meets, meers, limits, and bounds that ſhall be ſo re<g ref="char:EOLhyphen"/>turned and certified: and that all the places and ferritories, that ſhall bee without the meets, meers, limits, and bounds ſo re<g ref="char:EOLhyphen"/>turned
+<pb n="4" facs="tcp:105879:4"/>and certified, ſhall bee, and are hereby declared to be from thenceforth free to all intents and purpoſes, as if the ſame had neuer been forreſt, or ſo reputed: And act or acts matter, or thing whatſoeuer to the contrary thereof notwithſtanding.</p>
+            <p>Provided, and be it further enacted by the authority aforeſaid, That all and euery the grounds, territories, or places which haue been, or are deafforreſted, or mentioned to be deafforreſted, in or by any letters patents, Charters, or otherwiſe, ſince the ſaid <hi>2</hi> th. yeare of the Reigne of our late Soveraigne Lord King Iames, ſhall be excluded, and left out of the meets, meers, limits, and bounds of the forreſts, which are to be enqui-of, returned, and certified by vertue of the ſaid Commiſſions, or any of them reſpectiuely: And ſhall be, and hereby are declared, and enacted to be utterly deafforreſted, free, and exempt to all in<g ref="char:EOLhyphen"/>tents, and purpoſes, as if the ſame had neuer been at all forreſt or ſo reputed: Any thing in this preſent act contained, or any o<g ref="char:EOLhyphen"/>ther act, matter or thing whatſoever to the contrary in any wiſe notwithſtanding.</p>
+            <p>Prouided nevertheleſſe, and be it enacted, That the Tenants, Owners, and Occupiers, and every of them of Lands and Te<g ref="char:EOLhyphen"/>nements which ſhall be excluded and left out of the Meets, Meers, Limits or Bounds of the Forreſts to be returned, and certified by vertue of any the ſaid Commiſſion, ſhall or may uſe, &amp; enioy ſuch Common and other profits, and eaſements within the forreſts as anciently, or accuſtomably they have uſed, and enioyed: Any thing in this preſent act contained, or any Act or Ordinance made in the three and thirtieth yeare of King EDWARD the firſt, or any Cuſtome, or Law of the Forreſt, or any o<g ref="char:EOLhyphen"/>ther matter, or thing to the contrary thereof notwithſtan<g ref="char:EOLhyphen"/>ding.</p>
+            <div type="Royal_commission_and_indenture">
+               <div xml:lang="lat" type="version">
+                  <div type="commission">
+                     <pb n="5" facs="tcp:105879:4" rendition="simple:additions"/>
+                     <opener>
+                        <signed>
+                           <seg rend="decorInit">C</seg>AROLUS Dei gratia <hi>Angliae, Scotiae, Franciae,</hi> &amp; <hi>Hiberniae</hi> Rex, Fidei defen<g ref="char:EOLhyphen"/>ſor, &amp;c.</signed>
+                        <salute>Dilectis &amp; fidelibus noſtris <hi>Arth. Manwairing</hi> Militi, <hi>Rich. Onſlow Militi, Rob. Parkhurſt</hi> Militi, <hi>Nich. Stoughton</hi> Ar<g ref="char:EOLhyphen"/>migero, <hi>Johanni Denham</hi> Armigero, <hi>Wool<g ref="char:EOLhyphen"/>ley Lee</hi> Armigero, <hi>Jacobo Zouch</hi> Armige<g ref="char:EOLhyphen"/>ro, <hi>Benjamino Titchborn</hi> Armigero, <hi>Jo<g ref="char:EOLhyphen"/>hanni Hammond</hi> Armigero, <hi>Arthuro Squib</hi> Armigero, <hi>Mattheo Carleton</hi> Armigero, &amp; <hi>Richardo Beareblock</hi> Generoſo, ſalutem;</salute>
+                     </opener>
+                     <p>Sciatis quod nos de fidelitatibus &amp; providis circumſpecionibus veſtris plenius confidentes, ad requiſitionem predilecti &amp; fide<g ref="char:EOLhyphen"/>lis noſtri <hi>Henr.</hi> Domini <hi>Mowbray</hi> &amp; <hi>Maltrevers,</hi> ac dilecto<g ref="char:EOLhyphen"/>rum <hi>Richardi Onſlow,</hi> &amp; <hi>Roberti Parkhurst,</hi> Ac etiam dile<g ref="char:EOLhyphen"/>ctorum &amp; fidelium noſtrorum <hi>Edvardi Bagſhaw, Johannis White, Roberti Goodwin,</hi> &amp; <hi>Johannis Goodwin</hi> Armigero Bur<g ref="char:EOLhyphen"/>genſium in inſtanti Parliamento noſtro modo aſſemblat. Aſſig<g ref="char:EOLhyphen"/>navimus vos prefat. <hi>Arthurum Manwairing, Richardum Onſlow, Robertum Parkhurst, Nicholaum Stoughton, Johannem Denham, Woolley Lee, Jacobum Zouch, Benjaminum Titchborn, Johan<g ref="char:EOLhyphen"/>nem Hammon, Arthurum Squib, Mattheum Carleton,</hi> &amp; <hi>Richar<g ref="char:EOLhyphen"/>dum Beareblocke,</hi> decem, novem, octo, ſeptem, ſex, quinque, vel plures veſtrum Commiſſionarios noſtros, ad inquirendum &amp; inveniendum per inquiſitionem proborum &amp; legalium homi<g ref="char:EOLhyphen"/>num ſuper ſacramenta ſua, &amp; per ſacramenta teſtium produ<g ref="char:EOLhyphen"/>cendorum apud praedict. inquiſitionem, &amp; per omnes alios mo<g ref="char:EOLhyphen"/>dos legitimos omnes &amp; ſingulos terminos, Metas, Bundas, &amp; limites Forreſtae noſtrae de <hi>Windſor,</hi> infra Ballivat. de <hi>Surrey,</hi> qui fuerunt vulgaritur cognit, fuiſſe termini, metae, bundae, &amp; limi<g ref="char:EOLhyphen"/>tes dictae Forreſtae, Anno viceſimo Regni Domini <hi>Jacobi</hi> nuper
+<pb n="6" facs="tcp:105879:5"/>Regis <hi>Angliae, &amp;c.</hi> patris noſtri praechariſſimi, juxta tenorem cujuſdam Actus in preſenti Parliamento noſtro apud Weſtmo<g ref="char:EOLhyphen"/>naſterium in Com. <hi>Midd.</hi> modo aſſemblat. edit. &amp; proviſis In<g ref="char:EOLhyphen"/>titulat. <hi>An Act for the certainty of Forreſts, and of the Meets, Meers, Limits, and Bounds of the Forreſts:</hi> Preſentibus annexi, &amp; ad omnia &amp; ſingula alia faciend. &amp; per implend. in &amp; circa Inquiſitionem predictam capiend. &amp; retornand. ejuſdem fa<g ref="char:EOLhyphen"/>ciend. que juxta tenorem Actus predict. faciend. ſint &amp; per im<g ref="char:EOLhyphen"/>plend. Et ideo vobis &amp; ſingulis veſtrum mandamus, quod cir<g ref="char:EOLhyphen"/>ca omnia &amp; ſingula premiſſa diligenter intendatis; Mandamus enim Vicecomiti noſtro <hi>Surr.</hi> quod ad certos dies &amp; loca quos ad hoc vos decem, novem, octo, ſeptem, ſex, quinque vel plures veſtrum provideritis &amp; ei ſcire facietis, venire fac. coram vobis quinque vel pluribus veſtrum tot &amp; tales liberos &amp; legales ho<g ref="char:EOLhyphen"/>mines de eodem Comitatu, per quos rei veritas melius ſciri &amp; Inquiſitio predict. fieri poterit ſicut predictum eſt; Mandamus etiam Vicecomiti Ballivis dicti Comitatus noſtri <hi>Surr.</hi> &amp; om<g ref="char:EOLhyphen"/>nibus &amp; ſingulis viridariis, Forreſtariis, Rangiatoribus, &amp; aliis Officiar. dictae Forreſtae quod ſint aſſiſtentes &amp; attendentes executioni hujus noſtrae Commiſſionis, Inſuper etiam manda<g ref="char:EOLhyphen"/>mus quod Inquiſitionem illam diſtincte &amp; aperte in forma pre<g ref="char:EOLhyphen"/>dicta factam una cum toto &amp; integro proceſſu veſtro in premiſ<g ref="char:EOLhyphen"/>ſis ſub ſigillis quinque vel pluribus veſtrum &amp; ſigillis eorum, quorum ſacramenta facta fuerit hujuſmodi Inquiſitio nobis in Cancellar, noſtrum diſtincte &amp; aperte ſine dilectatione mittatis una cum hac commiſſione noſtrum: In cujus rei Teſtimonium has litteras noſtras fieri fecimus Pattentes,</p>
+                     <closer>
+                        <dateline>Teſte meipſo apud Weſtmonaſterium <date>quarto decimo die Septembris, Anno regni noſtri decimo ſeptimo.</date>
+                        </dateline>
+                        <signed>WILLIS.</signed>
+                     </closer>
+                  </div>
+                  <div type="indenture">
+                     <pb n="7" facs="tcp:105879:5" rendition="simple:additions"/>
+                     <opener>
+                        <dateline>Sur. ſſ.</dateline>
+                     </opener>
+                     <p>
+                        <seg rend="decorInit">I</seg>Nquiſitio intendatur capta apud <hi>Gulde<g ref="char:EOLhyphen"/>ford</hi> in Comitatu <hi>Surr.</hi> ſeptimo die Januarii, Anno regni Domini Caroli gratia <hi>Angliae, Scotiae, Franciae</hi> &amp; <hi>Hi<g ref="char:EOLhyphen"/>berniae,</hi> rex fidei defenſoris, &amp;c. deci<g ref="char:EOLhyphen"/>mo ſeptimo, coram <hi>Richardo Onſlow,</hi> Militi, <hi>Roberto Parkhurſt</hi> Militi, <hi>Ni<g ref="char:EOLhyphen"/>cholao Stoughton</hi> Armigero, <hi>Johanni Denham</hi> Armigero, <hi>Woolley Lee</hi> Armi<g ref="char:EOLhyphen"/>gero, <hi>Jacobo Zouch</hi> Armigero, <hi>Johanni Hammond</hi> Armigero, &amp; <hi>Mattheo Carleton</hi> Armigero, Commiſſionar. dicti Domini Regis per litteras Pattentes ejuſdem Domini Regis ſub magno ſigillo ſuo Angliae geren. dat. apud <hi>Weſtmonaſterium</hi> quarto de<g ref="char:EOLhyphen"/>cimo die Septembris ultimo, preteriter iis &amp; aliis Commiſſio<g ref="char:EOLhyphen"/>naris ejuſdem Domini Regis, quinque vel pluribus eorum di<g ref="char:EOLhyphen"/>rect. &amp; hinc Inquiſitioni annex. ad inquirend. &amp; inveniend. per Inquiſitionem proborum &amp; legalium hominum ſuper ſacramen<g ref="char:EOLhyphen"/>ta ſua &amp; per ſacramenta teſtium producendorum apud predict. Inquiſitionem, &amp; per omnes alios modos legittimos, omnes &amp; ſingulos terminos, Metas, Bundas, &amp; Limites Forreſtae, dicti Domini Regis de <hi>Windſor,</hi> infra Ballivat. de <hi>Surr.</hi> qui fuerunt vulgarit. cognit. fuiſſe termini, metae, bundae, &amp; limites dictae Forreſtae, Anno viceſimo Regni Domini <hi>Jacobi</hi> nuper Regis <hi>Anglia, &amp;c.</hi> Patris Domini Regis nunc prechariſſimi, juxta te<g ref="char:EOLhyphen"/>norem cujuſdem Actus in preſenti Parliamento ipſius Domini Regis, nunc apud <hi>Weſtmonaſterium</hi> in Comitatu <hi>Midd.</hi> aſſem<g ref="char:EOLhyphen"/>blat. edit. &amp; proviſis intitulat. <hi>An Act for the certainty of For<g ref="char:EOLhyphen"/>reſts, and of the Meets, Meers, Limits, and Bounds of the For<g ref="char:EOLhyphen"/>reſts:</hi> Eidem Commiſſioni annex. &amp; ad omnia &amp; ſingula alia
+<pb n="8" facs="tcp:105879:6"/>faciend. &amp; per implend. in &amp; circa juriſdictionem predict. ca<g ref="char:EOLhyphen"/>piend. &amp; retornand. ejuſdem faciend. Que juxta tenorem Actus predict. faciend. ſint, &amp; per implend. aſſign. pro ut per Com<g ref="char:EOLhyphen"/>miſſionem predict. plenius liquet predictis, <hi>Richardo Onſlowe</hi> Militi, &amp; <hi>Nicholao Stoughton</hi> Armigero, exiſten. viridariis For<g ref="char:EOLhyphen"/>reſtae predict. &amp; in preſentia <hi>Willielmi Hannington, Henrici Fen, Tutcher Robinſon, Rolandi Rapley, Georgii Rapley, Fran<g ref="char:EOLhyphen"/>ciſci Nevill, Thomae Green</hi> Gen. <hi>Willielmi Curtis,</hi> &amp; <hi>Thomae Charter,</hi> Forreſtariorum ejuſdem Forreſtae, nec non <hi>Georgii Clifton, Johannis Atfield, Henrici Ede, Willielmi Croſſe, Johan<g ref="char:EOLhyphen"/>nis Wheatley, VVillielmi Lambert, Johannis Bartholmew,</hi> &amp; <hi>Henrici Field,</hi> Regardatorum ejuſdem Forreſtae, eandem Com<g ref="char:EOLhyphen"/>miſſionem aſſiſten. &amp; attenden. reliquis Officiariis ejuſdem For<g ref="char:EOLhyphen"/>reſtae, ad hoc prius premonitis ſecundum formam &amp; effectum Actus predicti, ſed executionem minime aſſiſten. ſive attenden. per ſacramentum <hi>Johannis Down</hi> de <hi>Cobham</hi> Gen. <hi>Chriſtopheri Creſwell</hi> de <hi>Cranley</hi> Gen. <hi>Thomae VVeſt</hi> de <hi>Stoke</hi> Gen. <hi>Lionelis Rawlins</hi> de <hi>VVorking</hi> Gen <hi>Henrici Bickerſtaffe</hi> de <hi>VValton</hi> Gen. <hi>Thomae Child</hi> de <hi>VVaybridge</hi> Gen. <hi>VVillielmi Harris</hi> de eadem, <hi>Johannis VVarner</hi> de <hi>Chertſey, Richardi Roke</hi> de eadem, <hi>Richardi Mountaine</hi> de <hi>Egham</hi> Gen. <hi>VVillielmi Kirkham</hi> de eadem, <hi>Phi<g ref="char:EOLhyphen"/>lippi Street</hi> de <hi>VVcverſh, Johannis VValton</hi> de <hi>Shalford, Johannis Diddlesford</hi> de <hi>Haſcomb, VVillielmi Clifton</hi> de <hi>VVorpleſden, Jo<g ref="char:EOLhyphen"/>hannis Hammond</hi> de <hi>Binſcomb, Iohannis Hart</hi> de <hi>Puttenham, Thomae Avenel</hi> de eadem, &amp; <hi>Georgii Billinghurſt</hi> de eadem, pro<g ref="char:EOLhyphen"/>borum &amp; legalium hominum Comitatu predict. Qui quidem juratores ſuper ſancta Dei Evangelia jurat. &amp; onerat ad inqui<g ref="char:EOLhyphen"/>rend. &amp; inveniend. ſecundum formam &amp; effectum Commiſſio<g ref="char:EOLhyphen"/>nis, &amp; Actus predict. diverſis teſtibus fide dignis ad captionem hujus Inquiſitionem coram Commiſſionar. predict. debito modo ſuper ſancta Dei Evangelia jurat. &amp; aliis in evidentiis ju<g ref="char:EOLhyphen"/>ratoribus predict. product. dicunt ſuper ſacramentum ſuum pre<g ref="char:EOLhyphen"/>dict. quod Parcus de <hi>Guldeford</hi> in Comitatu predict. palis &amp; repagulis incluſus eſt Forreſta Domini Regis nunc de <hi>VVindſor,</hi> infra Ballivat. de <hi>Surr.</hi> Et ulterius dicunt ſuper ſacramentum ſuum predict. quod termini metae, bundae, &amp; limites, predicti Forreſtae de <hi>VVindſor,</hi> infra predict. Balliva<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> de Surr. qui fue<g ref="char:EOLhyphen"/>runt
+<pb n="9" facs="tcp:105879:6"/>vulgarit. cogin. &amp; reputat. fuiſſe termini metae, bundae, &amp; limites predict. Forreſtae, in Comitatu predict. in predicto An<g ref="char:EOLhyphen"/>no viceſimo dicti Domini Regis <hi>Iacobi</hi> fuerunt palae &amp; pagulae, Anglice <hi>the Pales and Railes,</hi> Parci predict. pro ut modo inclu<g ref="char:EOLhyphen"/>dit. Et quod totus Com. Surr. preter predict. Parcum de <hi>Gulde<g ref="char:EOLhyphen"/>ford</hi> in predicto Anno viceſimo dicti nuper Regis <hi>Iacobi</hi> fuit, &amp; modo eſt extra Forreſtam de <hi>VVindſor</hi> predict. &amp; ſic vulgarit. cognit. et reputat. fuit fore extra Forreſtam predict. in predicto Anno viceſimo dicti nuper Regis <hi>Iacobi.</hi> In cujus rei teſtimo<g ref="char:EOLhyphen"/>nium tam Commiſſionar. predict. quam Iur. predict. hinc In<g ref="char:EOLhyphen"/>quiſitionem ſigille ſua appoſuerunt, die Anno et loco primo ſu<g ref="char:EOLhyphen"/>pra dictis, &amp;c.</p>
+                     <closer>
+                        <signed>Convenit cum Recordo, &amp; ext. per <hi>EDMUND. HOSKINS.</hi>
+                        </signed>
+                     </closer>
+                  </div>
+               </div>
+               <div xml:lang="eng" type="version">
+                  <div type="commission">
+                     <pb n="10" facs="tcp:105879:7"/>
+                     <opener>
+                        <signed>
+                           <seg rend="decorInit">C</seg>HARLES by the Grace of God, King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c.</signed>
+                        <salute>To Our faithfull and beloved <hi>Arthur Man<g ref="char:EOLhyphen"/>wayring</hi> Knight, <hi>Richard Onſlow</hi> Knight, <hi>Robert Parkhurſt</hi> Kt. <hi>Nich. Stoughton</hi> Eſquire, <hi>Iohn Denham</hi> 
+                           <abbr>Eſq</abbr> 
+                           <hi>Woolley Lee</hi> 
+                           <abbr>Eſq</abbr> 
+                           <hi>James Zouch</hi> 
+                           <abbr>Eſq</abbr> 
+                           <hi>Benjamin Tich<g ref="char:EOLhyphen"/>born</hi> 
+                           <abbr>Eſq</abbr> 
+                           <hi>Iohn Hammond</hi> 
+                           <abbr>Eſq</abbr> 
+                           <hi>Arthur Squib</hi> 
+                           <abbr>Eſq</abbr> 
+                           <hi>Matthew Carleton</hi> 
+                           <abbr>Eſq</abbr> and <hi>Richard Bearblock</hi> Gen<g ref="char:EOLhyphen"/>tleman, greeting;</salute>
+                     </opener>
+                     <p>Know ye, that We of your fidelity and pro<g ref="char:EOLhyphen"/>vident inſight, being fully confident of, at the requeſt of Our faithfull and beloved, <hi>Henry</hi> Lord <hi>Mowbray,</hi> and <hi>Matrevers,</hi> and of you the aforeſaid <hi>Richard Onſlow,</hi> and <hi>Robert Parkehurſt;</hi> As alſo of Our faithfull and beloved <hi>Edward Bagſhaw, Iohn White, Robert Goodwyn,</hi> and <hi>Iohn Goodwyn</hi> Eſquires, Burgeſſes in this inſtant Parliament of Ours now aſſembled, We have aſſign<g ref="char:EOLhyphen"/>ed you the aforeſaid <hi>Arthur Manwayring, Richard Onſlow, Ro<g ref="char:EOLhyphen"/>bert Parkehurſt, Nicholas Stoughton, Iohn Denhan, Woolley Lee, Iames Zouch, Benjamin Tichborn, Iohn Hammond, Arthur Squib, Matthew Carleton,</hi> and <hi>Richard Bearblock,</hi> ten, nine, eight, ſeven, ſix, five, or more of you Our Commiſſioners, to inquire and find out by inquiſition of good and lawfull men upon their oath, and by the oath of Witneſſes to be produced at the ſaid Inquiſition, and by all other lawfull means, all and ſingular the endings of the Meets, Bounds and Limits of Our Forreſt of <hi>Windſor,</hi> within the Bayliffwick of <hi>Surrey,</hi> and which were vulgarly known to be the endings of the Meets, Bounds, and Limits of the ſaid For<g ref="char:EOLhyphen"/>reſt
+<pb n="11" facs="tcp:105879:7"/>in the Twentieth Yeare of King <hi>Iames,</hi> late King of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> &amp;c. our beloved Father, according to the Tenour of a cer<g ref="char:EOLhyphen"/>tain Act in this Our preſent Parliament at <hi>Weſtminſter,</hi> in the County of <hi>Middleſex,</hi> now aſſembled, enacted and provided; Intituled, An Act for the certainty of Forreſts, and of Meets, Meers, Limits, and Bounds, of the Forreſts, to theſe preſents an<g ref="char:EOLhyphen"/>nexed; And to all and ſingular other things to be done and ful<g ref="char:EOLhyphen"/>filled, in and about the aforeſaid Inquiſition to be taken and re<g ref="char:EOLhyphen"/>turned, and the ſame to be made and fulfilled according to the Tenour of the Act aforeſaid: And therefore We doe command you, and every of you, that to all and ſingular of the Premiſes you do diligently attend; We doe alſo command Our Sheriffes of <hi>Surrey,</hi> that at certain dayes and places, which to this purpoſe, you ten, nine, eight, ſeaven, ſix, five, or more of you ſhall ap<g ref="char:EOLhyphen"/>point, and to him made known, that he doe make to come before five or more of you ſuch and ſo many good and lawfull men of the ſame County, by which the truth of the things may the bet<g ref="char:EOLhyphen"/>ter be known, and the Inquiſition aforeſaid the better made, as is aforeſaid. We alſo command Our Sheriffes and Bayliffes in Our ſaid County of <hi>Surrey,</hi> and all and every Our Verderers, Forre<g ref="char:EOLhyphen"/>ſters, Rangers, and other Officers of Our ſaid Forreſt, that they be aſſiſting and attending at this Commiſſion of Ours: In like manner We do alſo command, that the ſaid Inquiſition diſtinct<g ref="char:EOLhyphen"/>ly and fairely in forme aforeſaid made; together with all and every your proceedings of the premiſes, under the Seales of five or more of you, and the Seales of thoſe, by whoſe oaths the ſame Inquiſition ſhall bee made to Us into Our Chancery, diſtinctly and fairly without delay you ſend, together with this Our Com<g ref="char:EOLhyphen"/>miſſion.</p>
+                     <closer>
+                        <dateline>In witneſſe of which, We have cauſed theſe Our Let<g ref="char:EOLhyphen"/>ters to be made Pattents: Witneſſe Our Selfe at <hi>Weſtminster</hi> 
+                           <date>this 14. Day of <hi>September,</hi> in the Seventeenth Yeere of Our Raigne.</date>
+                        </dateline>
+                        <signed>WILLIS.</signed>
+                     </closer>
+                  </div>
+                  <div type="indenture">
+                     <pb n="12" facs="tcp:105879:8"/>
+                     <opener>
+                        <dateline>Sur. ſſ.</dateline>
+                     </opener>
+                     <p>
+                        <seg rend="decorInit">A</seg>N Inquiſition Indenture taken at <hi>Guildford</hi> in the County of <hi>Surrey</hi> the Seventh day of <hi>Ianuary,</hi> in the Seventeenth Yeere of the Raign of Our Soveraign Lord CHARLES by the Grace of God King of <hi>England, Scot<g ref="char:EOLhyphen"/>land, France</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c. Before <hi>Richard Onſlowe</hi> Knight, <hi>Robert Parkehurſt</hi> Knight, <hi>Nicholas Stoughton</hi> Eſquire, <hi>Iohn Den<g ref="char:EOLhyphen"/>ham</hi> Eſquire, <hi>Woolley Lee</hi> Eſquire, <hi>Iames Zouch</hi> Eſquire, <hi>Iohn Hammond</hi> Eſquire, and <hi>Matthew Carleton</hi> Eſquire, Commiſſio<g ref="char:EOLhyphen"/>ners of Our ſaid Soveraign Lord the King, by the Letters Pat<g ref="char:EOLhyphen"/>tents of our ſaid Soveraign Lord the King under the great Seale of <hi>England,</hi> bearing date at <hi>Weſtminſter</hi> the Fourteenth day of <hi>September</hi> laſt paſt to them and other the Commiſſioners of Our ſaid Lord the King, and to five or more of them directed, and to this Inquiſition annexed, to inquire and finde out by the Inquiſi<g ref="char:EOLhyphen"/>tion of good and lawfull men upon their oaths, and by the oaths of Witneſſes to be produced at the ſaid Inquiſition, and by all o<g ref="char:EOLhyphen"/>ther lawfull means, all and ſingular the Endings, Meets, Bounds, and Limits of the Forreſt of Our ſaid Lord the King of <hi>Windſor,</hi> within the Bayliffwick of <hi>Surrey,</hi> and which were vulgarly known to be the Endings, Meets, Bounds, and Limits of the ſaid Forreſt in the 20. Yeere of the Raign of Our Lord King <hi>Iames,</hi> late King of <hi>England,</hi> &amp;c. beloved Father to Our now King, ac<g ref="char:EOLhyphen"/>cording to a certain Act in this preſent Parliament, of Our ſaid Lord the now King at <hi>Weſtminſter</hi> in the County of <hi>Middleſex</hi> aſſembled, and enacted and provided; Intituled, An Act for the certainty of Forreſts, and of the Meets, Meers, Limits, and Bounds of the Forreſt, and to this Commiſſion annexed, And to all and ſingular other things to be done and fulfilled in and about the aforeſaid Inquiſition to be taken and returned, and the ſame to be made and fulfilled according to the Tenour of the Act aforeſaid,
+<pb n="13" facs="tcp:105879:8"/>and according to the Commiſſion aforeſaid doth appeare; The aforeſaid <hi>Richard Onſlowe</hi> Knight, and <hi>Nicholas Stoughton</hi> 
+                        <abbr>Eſq</abbr> being Verderers of the aforeſaid Forreſt, and in the preſence of <hi>William Hannington, Henry Fen, Tutcher Robinſon, Rowland Ra<g ref="char:EOLhyphen"/>pley, George Rapley, Fraencis Nevill, Thomas Green,</hi> Gentlemen, <hi>William Curtis,</hi> and <hi>Thomas Chuter,</hi> Forreſters of the ſaid For<g ref="char:EOLhyphen"/>reſt; as alſo of <hi>George Clifton, John Atfield, Henry Ede, William Croſſe, Iohn, Wheatley, William Lambert, Iohn Bartholmew,</hi> and <hi>Henry Field,</hi> Regardors of the aforeſaid Forreſt, the ſaid Com<g ref="char:EOLhyphen"/>miſſion aſſiſting, and attending the reſt of the Officers of the ſaid Forreſt, to this formerly ſummoned, according to the forme and effect of the aforeſaid Act, but the execution not at all aſſiſting or attending, By the oath of <hi>Iohn Down</hi> of <hi>Cobham</hi> Gentleman, <hi>Chriſtopher Creſwell</hi> of <hi>Cranley</hi> Gentleman, <hi>Thomas Weſt</hi> of <hi>Stoke</hi> Gentleman, <hi>Lyonell Rawlins</hi> of <hi>Woking</hi> Gentleman, <hi>Henry Bickerſtaffe</hi> of <hi>Walton</hi> Gent. <hi>Thomas Childe</hi> of <hi>Waybridge</hi> Gent. <hi>William Harris</hi> of the ſame, <hi>Iohn Warner</hi> of <hi>Chertſey, Richard Rovk</hi> of the ſame, <hi>Richard Mountain</hi> of <hi>Egham</hi> Gent. <hi>Willivm Kirkham</hi> of the ſame, <hi>Philip Street</hi> of <hi>Wonerſhe, Iohn Walter</hi> of <hi>Shalford, Iohn Diddlesford</hi> of <hi>Haſcombe, William Clifton</hi> of <hi>Wor<g ref="char:EOLhyphen"/>pleſden, Iohn Hammond</hi> of <hi>Binſcombe, Iohn Harte</hi> of <hi>Puttenham, Thomas Avenell</hi> of the ſame, and <hi>George Billingburſt</hi> of the ſame, good and lawfull men of the aforeſaid County, which ſaid Iurors upon the Holy Evangeliſt being impanelled and ſworn to inquire and find out according to the forme and effect of the Commiſſion and Act aforeſaid divers Witneſſes of good worth at the taking of the ſaid Inquiſition before the Commiſſioners aforeſaid, in due forme of Law, being ſworne upon the Holy E<g ref="char:EOLhyphen"/>vangeliſt, and other evidences produced to the Jury aforeſaid, ſay upon their oath aforeſaid, that the Parke of <hi>Guildford</hi> in the County aforeſaid, with Pales and Rayles included, is the Forreſt of Our now Lord the King, of <hi>Windſor</hi> within the Bayliffwicke of <hi>Surrey,</hi> And they doe further ſay upon their oath aforeſaid, that the Endings, Meetes, Bounds, and Limits of the aforeſaid Forreſt of <hi>VVindſor</hi> within the aforeſaid Bayliffwicke of <hi>Surrey,</hi> which were commonly known and reputed to be the Endings, Meets, Bounds, and Limits of the aforeſaid Forreſt in the Coun<g ref="char:EOLhyphen"/>ty
+<pb n="14" facs="tcp:105879:9"/>aforeſaid, in the aforeſaid Twentieth Yeere of Our Lord King <hi>James,</hi> were the Pales and Rayles of the aforeſaid Parke as now it is included, And that the whole County of <hi>Surrey,</hi> except the Parke of <hi>Guildford,</hi> in the aforeſaid Twentieth Yeere of King <hi>Iames,</hi> was, and now is out of the Forreſt of <hi>VVindſor</hi> aforeſaid, and ſo was commonly known and reputed to be out of the For<g ref="char:EOLhyphen"/>reſt aforeſaid, in the aforeſaid Twentieth Yeer of Our Lord King <hi>Iames:</hi> In witneſſe of which, the Commiſſioners aforeſaid; as alſo the Jury aforeſaid to this Inquiſition, have put to their Seals the Day and Yeer firſt above written, &amp;c.</p>
+                     <closer>
+                        <signed>It agrees with the Record, and examined by <hi>Edmond Hoskins.</hi>
+                        </signed>
+                     </closer>
+                     <pb facs="tcp:105879:9"/>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
